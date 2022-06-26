@@ -1,0 +1,896 @@
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\bin\Debug\GestionDeUsuarios.exe.config
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\bin\Debug\GestionDeUsuarios.exe
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\bin\Debug\GestionDeUsuarios.pdb
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.csprojAssemblyReference.cache
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.AdministrarUsuarios.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Clientes.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Elaboracion.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.EntidadesCred.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Marcas.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Materias.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ingreso.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ListadoUsuarios.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.MediosDeTrans.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Menu.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.PedidosClientes.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.PedidosProv.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ProdsVenta.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Properties.Resources.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Proveedores.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.RecupClave.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.RecuperarPorMail.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ReportesCompras.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ReportesElab.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ReportesVentas.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Rubros.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.UbicBarrio.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.UbicGeogr.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.UbicLocalidad.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.UbicProvincia.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.csproj.GenerateResource.cache
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.exe
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.pdb
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Sesiones.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ProdReventaConsulta.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ProdReventaMain.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\GestionDeUsuarios.exe.config
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\GestionDeUsuarios.exe
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\GestionDeUsuarios.pdb
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.csprojAssemblyReference.cache
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.AdministrarUsuarios.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Clientes.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Elaboracion.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.EntidadesCred.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Marcas.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Materias.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ingreso.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ListadoUsuarios.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.MediosDeTrans.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Menu.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ProdReventaMain.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Properties.Resources.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Proveedores.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.RecupClave.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.RecuperarPorMail.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ReportesCompras.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ReportesElab.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ReportesVentas.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Rubros.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Sesiones.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.UbicBarrio.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.UbicGeogr.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.UbicLocalidad.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.UbicProvincia.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.csproj.GenerateResource.cache
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.exe
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.pdb
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\GestionDeUsuarios.exe.config
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\GestionDeUsuarios.exe
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\GestionDeUsuarios.pdb
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.csprojAssemblyReference.cache
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.AdministrarUsuarios.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Clientes.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Elaboracion.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.EntidadesCred.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Marcas.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Materias.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ingreso.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ListadoUsuarios.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.MediosDeTrans.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Menu.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ProdReventaMain.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Properties.Resources.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Proveedores.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.RecupClave.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.RecuperarPorMail.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ReportesCompras.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ReportesElab.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ReportesVentas.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Rubros.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Sesiones.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.UbicBarrio.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.UbicGeogr.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.UbicLocalidad.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.UbicProvincia.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.csproj.GenerateResource.cache
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.exe
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.pdb
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.CuentaGlobal.resources
+C:\Users\Servando\Source\Repos\servandomodica\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.CuentaProvee.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.CuentaGlobal.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.CuentaProvee.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\GestionDeUsuarios.exe.config
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\GestionDeUsuarios.exe
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\GestionDeUsuarios.pdb
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.AdministrarUsuarios.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.CuentaGlobal.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.CuentaProvee.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Clientes.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Elaboracion.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.EntidadesCred.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Marcas.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Materias.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ingreso.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ListadoUsuarios.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.MediosDeTrans.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Menu.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ProdReventaMain.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Properties.Resources.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Proveedores.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.RecupClave.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.RecuperarPorMail.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ReportesCompras.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ReportesElab.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ReportesVentas.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Rubros.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Sesiones.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.UbicBarrio.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.UbicGeogr.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.UbicLocalidad.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.UbicProvincia.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.csproj.GenerateResource.cache
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.exe
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.pdb
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Compras.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.CuentaGlobal.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.CuentaProvee.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Compras.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Compras.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.MenuReportesCompras.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.MenuReportesCompras.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.MenuReportesCompras.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.AdministrarCategorias.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.AdministrarCategorias.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\mongocrypt.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Crc32C.NET.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\DnsClient.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ExtentReports.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Bson.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Driver.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\RazorEngine.NetCore.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\SharpCompress.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Snappy.NET.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Buffers.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Memory.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Security.Permissions.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Crc32C.NET.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\DnsClient.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.HostFiltering.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.IIS.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Bson.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Driver.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Snappy.NET.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Buffers.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Memory.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.csproj.CopyComplete
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\mongocrypt.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Crc32C.NET.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\DnsClient.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ExtentReports.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Bson.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Driver.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\RazorEngine.NetCore.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\SharpCompress.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Snappy.NET.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Buffers.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Memory.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Security.Permissions.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Crc32C.NET.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\DnsClient.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.HostFiltering.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.IIS.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Bson.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Driver.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Snappy.NET.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Buffers.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Memory.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.csproj.CopyComplete
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\mongocrypt.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Crc32C.NET.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\DnsClient.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ExtentReports.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Bson.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Driver.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\RazorEngine.NetCore.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\SharpCompress.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Snappy.NET.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Buffers.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Memory.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Security.Permissions.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Crc32C.NET.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\DnsClient.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.HostFiltering.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.IIS.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Bson.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Driver.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Snappy.NET.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Buffers.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Memory.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.AdministrarCategorias.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.csproj.CopyComplete
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.AnalisisCompras.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\itextsharp.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\itextsharp.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\itextsharp.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\itextsharp.xml
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.AnalisisCompras.resources
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\itextsharp.dll
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\itextsharp.xml
+C:\Users\Servando\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.AnalisisCompras.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\EnvDTE.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\stdole.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.csproj.AssemblyReference.cache
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.GlobalProvee.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\RdlCompile.cache
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\RdlCompile.compiled
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\EnvDTE.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\stdole.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.GlobalProvee.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\RdlCompile.cache
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\RdlCompile.compiled
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\EnvDTE.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\stdole.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.GlobalProvee.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\RdlCompile.cache
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\RdlCompile.compiled
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.MenuPagos.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.PagoEfectivo.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.PagoTarjetas.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.PagoTransferencia.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.PagoCheque.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Aviso.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Aviso.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.MenuPagos.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.PagoCheque.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.PagoEfectivo.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.PagoTarjetas.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.PagoTransferencia.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Aviso.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.MenuPagos.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.PagoCheque.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.PagoEfectivo.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.PagoTarjetas.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.PagoTransferencia.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Producción.ProdElab.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Producción.AnalisisElab.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Producción.ProdElab.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Producción.AnalisisElab.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Producción.ProdElab.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.AvisoYesNo.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.AvisoYesNo.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Producción.ListadoElab.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.Venta.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.MenuCobro.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.AvisoYesNo.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Producción.AnalisisElab.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Producción.ListadoElab.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.MenuCobro.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.Venta.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.CobroCheque.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.CobroEfectivo.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.CobroTarjetas.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.CobroTransferencia.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Producción.ListadoElab.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.CobroCheque.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.CobroEfectivo.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.CobroTarjetas.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.CobroTransferencia.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.MenuCobro.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.Venta.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.AnalisisVentas.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.CuentaCliente.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.ListadoClientes.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.ListadoDeudores.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.ListadoProductos.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.ListadoVendedores.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.AnalisisVentas.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.CuentaCliente.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.ListadoClientes.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.ListadoDeudores.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.ListadoProductos.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.ListadoVendedores.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.AnalisisVentas.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.CobroCheque.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.CobroEfectivo.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.CobroTarjetas.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.CobroTransferencia.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.CuentaCliente.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.ListadoClientes.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.ListadoDeudores.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.ListadoProductos.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.ListadoVendedores.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ListElabSoloFecha.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ListElabSoloFecha.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ListElabCociFecha.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ListElabEstadoFecha.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ListElabTodo.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ListElabCociFecha.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ListElabEstadoFecha.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ListElabTodo.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ListElabCociFecha.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ListElabEstadoFecha.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ListElabSoloFecha.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ListElabTodo.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.AnalisisMedios.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.AnalisisMedios.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.Ventas.AnalisisMedios.resources
+C:\Users\Servando\source\repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ListClieDeudores.resources
+C:\Users\Pablo\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ListClieDeudores.resources
+C:\Users\Juan Abriola\Source\Repos\SandS\GestionDeUsuarios\obj\Debug\GestionDeUsuarios.ListClieDeudores.resources
